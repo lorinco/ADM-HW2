@@ -24,6 +24,6 @@ scp -i C:\Users\150224\voker.pem -r list.json ec2-user@54.80.12.38:/home/ec2-use
 ```
 - output of scripts and their results
 Local machine
-![plot](./images/result_local.png.png)
+![plot](./images/result_local.png)
 EC2 instance
 ![plot](./images/result_ec2.png)

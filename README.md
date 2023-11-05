@@ -23,7 +23,7 @@ scp -i C:\Users\150224\voker.pem -r start.py ec2-user@54.80.12.38:/home/ec2-user
 scp -i C:\Users\150224\voker.pem -r list.json ec2-user@54.80.12.38:/home/ec2-user
 ```
 - output of scripts and their results
-Local machine
+<br />Local machine<br />
 ![plot](./images/result_local.png)
-EC2 instance
+<br />EC2 instance<br />
 ![plot](./images/result_ec2.png)

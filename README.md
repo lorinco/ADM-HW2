@@ -5,3 +5,4 @@
 ### CLQ(command line question)
 #### Below you can see execution of commandline_original.sh and commandline_LLM.sh
 - The file which had been used in script is called "series.json"
+![plot](./images/aws1_img.png)
